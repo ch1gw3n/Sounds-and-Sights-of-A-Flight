@@ -41,6 +41,7 @@ The **Flight Visualization** program graphically represents the flight path, dis
 - Python environment set up, preferably in Jython Music.
 - Libraries for music (`jMusic`) and graphics display.
 - A valid `flightData.txt` file containing tab-separated values in the format:
+  
   ```
   time    longitude    latitude    altitude
   ```
